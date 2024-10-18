@@ -1,0 +1,1 @@
+Aqui estão alguns trabalhos realizados que envolvem inteligência artificial, alguns utilizam os algoritmos de forma genérica para resolver diversos problemas, outros resolvem problemas específicos
